@@ -1,0 +1,1 @@
+This repo will store the projects I develop in Computational Photography.
